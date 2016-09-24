@@ -19,7 +19,7 @@ html, body {
 
 #bottom-positioner {
 	position: absolute;
-  bottom: 0px;
+  bottom: 100px;
 	width: 100%;
 }
 
